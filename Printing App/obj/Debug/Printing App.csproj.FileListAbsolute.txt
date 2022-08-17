@@ -1,0 +1,12 @@
+D:\OneDrive\Documents\Printing App\Printing App\bin\Debug\Printing App.exe.config
+D:\OneDrive\Documents\Printing App\Printing App\bin\Debug\Printing App.exe
+D:\OneDrive\Documents\Printing App\Printing App\bin\Debug\Printing App.pdb
+D:\OneDrive\Documents\Printing App\Printing App\obj\Debug\Printing App.csproj.AssemblyReference.cache
+D:\OneDrive\Documents\Printing App\Printing App\obj\Debug\Printing App.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive\Documents\Printing App\Printing App\obj\Debug\Printing_App.Form1.resources
+D:\OneDrive\Documents\Printing App\Printing App\obj\Debug\Printing_App.frmShow.resources
+D:\OneDrive\Documents\Printing App\Printing App\obj\Debug\Printing_App.Properties.Resources.resources
+D:\OneDrive\Documents\Printing App\Printing App\obj\Debug\Printing App.csproj.GenerateResource.cache
+D:\OneDrive\Documents\Printing App\Printing App\obj\Debug\Printing App.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\Printing App\Printing App\obj\Debug\Printing App.exe
+D:\OneDrive\Documents\Printing App\Printing App\obj\Debug\Printing App.pdb
